@@ -1,5 +1,1 @@
-redis:7.4.1
-nginx:1.27.2
-emqx:5.8.1
-traefik:v3.2.0
 minio:RELEASE.2024-11-07T00-52-20Z
