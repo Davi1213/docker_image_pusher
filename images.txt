@@ -13,9 +13,16 @@
 #alibabadragonwell/dragonwell:17-centos
 #alibabadragonwell/dragonwell:21-centos
 
-redis:7.4.1
-nginx:1.27.2
-testcontainers/sshd:1.2.0
-emqx:5.8.1
-traefik:v3.2.0
-minio/minio:RELEASE.2024-11-07T00-52-20Z
+#redis:7.4.1
+#nginx:1.27.2
+#testcontainers/sshd:1.2.0
+#emqx:5.8.1
+#traefik:v3.2.0
+#minio/minio:RELEASE.2024-11-07T00-52-20Z
+
+#kkFileView为文件文档在线预览解决方案，基本支持主流办公文档的在线预览，如doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等
+keking/kkfileview:v2.2.2.1
+keking/kkfileview:4.1.0
+
+
+
