@@ -23,7 +23,7 @@
 #minio/minio:RELEASE.2024-11-07T00-52-20Z
 
 #文件文档在线预览：基本支持主流办公文档的在线预览，如doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等
-keking/kkfileview:v2.2.2.1
-keking/kkfileview:4.1.0
+#keking/kkfileview:v2.2.2.1
+#keking/kkfileview:4.1.0
 
 
