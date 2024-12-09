@@ -1,2 +1,1 @@
-keking/kkfileview:v2.2.2.1
-keking/kkfileview:4.1.0
+mybigpai/sd-webui-easyphoto:0.0.3
