@@ -1,1 +1,1 @@
-mybigpai/sd-webui-easyphoto:0.0.3
+sd-webui-easyphoto:0.0.3
