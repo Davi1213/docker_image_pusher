@@ -1,1 +1,2 @@
-sd-webui-easyphoto:0.0.3
+emqx/emqx:latest
+emqx/emqx:5.6.1
